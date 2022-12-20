@@ -1,5 +1,9 @@
 # Changelog
 
+## [4.3.3] -
+
+- Specify max version of Sidekiq gem (v7 is incompatible for now)
+
 ## [4.3.2] - 2022-09-01
 
 - #139 - Fix Redis deprecation warnings from [@adamzapasnik](https://github.com/adamzapasnik)
